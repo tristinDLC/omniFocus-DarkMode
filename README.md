@@ -1,5 +1,5 @@
 # Dark Mode for OmniFocus3 Web
-![GitHub](https://img.shields.io/github/license/tristinDLC/omniFocus-DarkMode) ![GitHub stars](https://img.shields.io/github/stars/tristinDLC/omniFocus-DarkMode?style=social)![GitHub forks](https://img.shields.io/github/forks/tristinDLC/omniFocus-DarkMode?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/tristinDLC?style=social)
+![GitHub](https://img.shields.io/github/license/tristinDLC/omniFocus-DarkMode) ![GitHub stars](https://img.shields.io/github/stars/tristinDLC/omniFocus-DarkMode?style=social) ![GitHub forks](https://img.shields.io/github/forks/tristinDLC/omniFocus-DarkMode?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/tristinDLC?style=social)
 
 Stylebot CSS file to enable Dark Mode on [OmniFocus3](https://www.omnigroup.com/omnifocus/) web to match the Dark Mode on their macOS desktop app. While Dark Mode was a great addition to the desktop and mobile apps, the web app is stuck with a hybrid theme of Dark Mode sidebar and Light Mode body.
 
@@ -19,7 +19,7 @@ Before you continue, ensure you have met the following requirements:
 3. Click on "Styles"
 4. Click on "Add a new style..."
 5. Enter `web.omnifocus.com` into the URL field.
-6. Copy and paste contents of `omniFocus.css` into the body of
+6. Copy and paste contents of `css/omniFocus.css` into the body of
 7. Click "Save"
 
 ## Contributing
